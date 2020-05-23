@@ -1,0 +1,22 @@
+body {
+	background-color: #80d4ea;
+	text-align: center;
+}
+
+#clock {
+	height: 100px;
+	width: 800px;
+	margin: auto;
+	font-size: 100px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+	font-family: courier, monospace;
+	padding-top: 70px;
+	color: white;
+}
+
+a {
+	font-size: 30px;
+	text-decoration: none;
+	color: #2543EB;
+}
