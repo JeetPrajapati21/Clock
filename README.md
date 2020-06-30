@@ -1,2 +1,2 @@
 # Clock
-[Wall Clock](https://webprjpt.github.io/Clock/WallClock/index.html)
+[Wall Clock](https://JeetPrajapati21.github.io/Clock/WallClock/index.html)
